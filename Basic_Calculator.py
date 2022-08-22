@@ -4,4 +4,4 @@ def calculator(num1, operator, num2):
     return eval(str(num1) + " " + operator + " " + str(num2))
 
 
-print(calculator(1, "/", 0))
+print(calculator(1, "+", 2))
